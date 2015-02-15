@@ -1,0 +1,14 @@
+---
+slug: :show_tweet
+depends:
+  mikutter: '3.2'
+  plugin:
+  - command
+  - gtk
+  - gui
+  - activity
+version: '1.0'
+author: osa_k
+name: URL指定でツイートを開くやつ
+description: URL指定でツイートを開けます。
+repository: git://git.github.com/osak/show_tweet.git
