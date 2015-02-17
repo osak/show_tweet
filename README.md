@@ -1,7 +1,7 @@
 # show_tweet
 
 ## Howto
-    $ git clone https://github.com/osak/show_tweet.git ~/.mikutter/plugin
+    $ git clone https://github.com/osak/show_tweet.git ~/.mikutter/plugin/show_tweet
 
 右下にボタンが追加されるので、押すとURLを入力するダイアログが出ます。
 TweetのPermalinkや、そんな感じに見えるものを入力してOKを押すと、新しいタブでそのツイートが開けます。
