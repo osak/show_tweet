@@ -28,7 +28,7 @@ Plugin.create(:show_tweet) do
   command(:open_tweet_url_dialog,
     name: 'URL指定でツイートを表示',
     condition: lambda{|opt| true},
-    visible: false,
+    visible: true,
     icon: File.join(File.dirname(__FILE__),"show_tweet.png"),
     role: :window) do |opt|
 
